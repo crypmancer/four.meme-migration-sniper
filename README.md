@@ -15,6 +15,11 @@ It can be used for migration sniping if we integrate pancake swap.
 
 - https://bscscan.com/tx/0xeca7257de97b8d5257f7ca5773dfeee054c7c2a243878f56a998efd5f5eace0d
 
+## Succeed in sniping as a first buyer
+
+- https://bscscan.com/tx/0xc1205f321982174af0395e6e1adc0102aa458118960b1f09a77784caa14e0149
+- https://bscscan.com/tx/0x853c61407d3940c14c2c7c3e5fe8b427b7b02f3b6fa2a634f35e09680af356c6
+
 ## Contact Me
 
 If you have any question or something, feel free to reach out me anytime.

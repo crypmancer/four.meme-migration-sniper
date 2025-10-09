@@ -8,8 +8,11 @@ It can be used for migration sniping if we integrate pancake swap.
 ## Development Process
 
 ✔ Monitoring (Completed)
+
 ✔ Sniping (Completed)
+
 ✔ Sniping as first buyer (Completed)
+
   Selling logic
 
 ## Test Result

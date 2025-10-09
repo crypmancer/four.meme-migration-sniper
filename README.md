@@ -1,9 +1,16 @@
-# Bnb Four.meme Migration Monitor
+# Bnb Four.meme Migration Monitor/Sniper
 
 This tool allows users can detect new migration from four.meme to PancakeSwap.
 It can be used for migration sniping if we integrate pancake swap.
 
-<img width="789" height="157" alt="image" src="https://github.com/user-attachments/assets/92d0f22c-f09c-447d-a47c-966b9fb56a2c" />
+<img width="725" height="278" alt="image" src="https://github.com/user-attachments/assets/22ea8141-ce7e-4845-98b0-b506d189645f" />
+
+## Development Process
+
+✔ Monitoring (Completed)
+✔ Sniping (Completed)
+✔ Sniping as first buyer (Completed)
+  Selling logic
 
 ## Test Result
 
